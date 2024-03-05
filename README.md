@@ -1,6 +1,4 @@
 # Life-or-Death
-Life or death, that is a question.
-
 
 "Life is a one-time journey for each individual, and everyone should cherish it. However, there are moments when the question of 'life or death' becomes a real consideration."
 
